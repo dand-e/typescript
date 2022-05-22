@@ -1,1 +1,4 @@
-# typescript-hc3
+# Hiring Coders #3
+
+Destinado ao conteúdo de Typescript
+
