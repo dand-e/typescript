@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Destinado ao conteúdo de Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dand-e/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dand-e/typescript/issues"
+  },
+  "homepage": "https://github.com/dand-e/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
